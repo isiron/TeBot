@@ -1,4 +1,4 @@
-﻿using Discord.Commands;
+/*﻿using Discord.Commands;
 using Discord.WebSocket;
 using System;
 using System.Collections.Generic;
@@ -221,3 +221,4 @@ namespace TeBot
         }
     }    
 }
+*/
